@@ -1,0 +1,14 @@
+{
+  "name": "adilet-pro-liga",
+  "version": "1.0.0",
+  "description": "Adilet Pro Liga — школьная футбольная статистика (SofaScore-inspired)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
